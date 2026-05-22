@@ -29,7 +29,6 @@
     "source_url": "https://maps.app.goo.gl/MPwmBpWXoWFkTJDCA",
     "cache_key": "MPwmBpWXoWFkTJDCA"
   },
-  "editToken": "5e458058b484da27ab2dc943618c0dac",
   "hours": [
     {
       "day_key": "sunday",
@@ -88,7 +87,13 @@
       "is_open": false
     }
   ],
-  "design": {},
+  "design": {
+    "color_primary": "sky",
+    "color_secondary": "cyan",
+    "hero_gradient": "from-sky-950 via-cyan-900 to-sky-950",
+    "contact_gradient": "from-sky-950 to-cyan-900",
+    "section_dark_bg": "#082f49"
+  },
   "sections": [
     {
       "id": "hero",
