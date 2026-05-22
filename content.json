@@ -1,0 +1,375 @@
+{
+  "version": 2,
+  "business": {
+    "name": "נמרוד - עיסוי טיפול",
+    "name_en": "נמרוד- עיסוי טיפול ריפוי",
+    "site_lang": "he",
+    "available_langs": [
+      "he"
+    ],
+    "phone": "+972505702591",
+    "phone_display": "+972505702591",
+    "whatsapp": "972505702591",
+    "website": "",
+    "rating": 5,
+    "reviews_count": 32,
+    "address_he": "HaArazim St 6, Motza Illit, Israel",
+    "address_en": "HaArazim St 6, Motza Illit, Israel",
+    "category_he": "מטפל עיסוי תאילנדי",
+    "category_en": "Thai massage therapist",
+    "maps_url": "https://maps.google.com/?q=31.7921688,35.1554648",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHupZ-u0TESUrT08bG_i6ZRVw-XC5qmR3RTz2Qnzzx_BSD79cbSUqRTbA_KdRjMEwAnrpfAafMAiWK_00JkOW5S8o05ANwYA7YAwBaugsvMofApD2BZQdYq7aAmpZWrGmLF0xAA=w408-h552-k-no",
+    "logo_emoji": "HeartPulse",
+    "geo": {
+      "latitude": 31.7921688,
+      "longitude": 35.1554648
+    },
+    "schema_type": "LocalBusiness",
+    "price_range": "$",
+    "source_url": "https://maps.app.goo.gl/MPwmBpWXoWFkTJDCA",
+    "cache_key": "MPwmBpWXoWFkTJDCA"
+  },
+  "editToken": "5e458058b484da27ab2dc943618c0dac",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "ראשון",
+      "day_en": "Sunday",
+      "hours_he": "9:00 - 20:00",
+      "hours_en": "9 am–8 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "monday",
+      "day_he": "שני",
+      "day_en": "Monday",
+      "hours_he": "9:00 - 20:00",
+      "hours_en": "9 am–8 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "שלישי",
+      "day_en": "Tuesday",
+      "hours_he": "9:00 - 20:00",
+      "hours_en": "9 am–8 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "רביעי",
+      "day_en": "Wednesday",
+      "hours_he": "9:00 - 20:00",
+      "hours_en": "9 am–8 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "חמישי",
+      "day_en": "Thursday",
+      "hours_he": "9:00 - 20:00",
+      "hours_en": "9 am–8 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "friday",
+      "day_he": "שישי",
+      "day_en": "Friday",
+      "hours_he": "9:00 - 13:00",
+      "hours_en": "9 am–1 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "שבת",
+      "day_en": "Saturday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    }
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "K",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "מטפל מקצועי בעיסוי תאילנדי מאומת עם רישיון, מתמחה בשחרור מתיחויות עמוקות ושיקום רווחתך הפיזית.",
+          "en": "מטפל מקצועי בעיסוי תאילנדי מאומת עם רישיון, מתמחה בשחרור מתיחויות עמוקות ושיקום רווחתך הפיזית."
+        },
+        "subtitle": {
+          "he": "עיסוי טיפולי דקיק. טכניקה מוכחת. תוצאות מיידיות.",
+          "en": "עיסוי טיפולי דקיק. טכניקה מוכחת. תוצאות מיידיות."
+        },
+        "available": {
+          "he": "זמין להזמנה בנמרוד, מוצא עלית",
+          "en": "זמין להזמנה בנמרוד, מוצא עלית"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "D",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "שירותים המדויקים בטיפול ובשחרור",
+          "en": "שירותים המדויקים בטיפול ובשחרור"
+        },
+        "cta": {
+          "he": "בחר טיפול והזמן עכשיו",
+          "en": "בחר טיפול והזמן עכשיו"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "HeartPulse",
+          "title": {
+            "he": "עיסוי תאילנדי קלאסי",
+            "en": "עיסוי תאילנדי קלאסי"
+          },
+          "desc": {
+            "he": "שחרור מתיחויות עמוקות וחידוש זרימת האנרגיה. טכניקות מדויקות המשלבות לחץ, מתיחה ויישור הגוף לשחזור שיווי משקל פיזיולוגי מלא.",
+            "en": "שחרור מתיחויות עמוקות וחידוש זרימת האנרגיה. טכניקות מדויקות המשלבות לחץ, מתיחה ויישור הגוף לשחזור שיווי משקל פיזיולוגי מלא."
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Stethoscope",
+          "title": {
+            "he": "עיסוי ריפוי עמוק",
+            "en": "עיסוי ריפוי עמוק"
+          },
+          "desc": {
+            "he": "טיפול ממוקד בשרירים משוועים וקשיחות כרונית. שחרור מתח נקודתי ועבודה מדויקת על אזורי כאב להחזרת תנוחה תקינה ותפקוד אופטימלי.",
+            "en": "טיפול ממוקד בשרירים משוועים וקשיחות כרונית. שחרור מתח נקודתי ועבודה מדויקת על אזורי כאב להחזרת תנוחה תקינה ותפקוד אופטימלי."
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Leaf",
+          "title": {
+            "he": "עיסוי הרפיה וחידוש",
+            "en": "עיסוי הרפיה וחידוש"
+          },
+          "desc": {
+            "he": "שיקום הגוף דרך מגע קבוע ופעולות מעניינות. הנחות תנוחה מנח את המתח הנצבר וצעדים עדינים המשחררים את מערכת העצבים.",
+            "en": "שיקום הגוף דרך מגע קבוע ופעולות מעניינות. הנחות תנוחה מנח את המתח הנצבר וצעדים עדינים המשחררים את מערכת העצבים."
+          }
+        },
+        {
+          "id": "4",
+          "icon": "Flower",
+          "title": {
+            "he": "טיפול טיפולי קבוצתי",
+            "en": "טיפול טיפולי קבוצתי"
+          },
+          "desc": {
+            "he": "עיסוי משחרר בהקשר קבוצתי מוקדש. תשומת לב אישית וטכניקה מקצועית המוקדשת לכל משתתף בנפרד לשיפור רווחתו הכוללת.",
+            "en": "עיסוי משחרר בהקשר קבוצתי מוקדש. תשומת לב אישית וטכניקה מקצועית המוקדשת לכל משתתף בנפרד לשיפור רווחתו הכוללת."
+          }
+        },
+        {
+          "id": "5",
+          "icon": "Wind",
+          "title": {
+            "he": "שיחרור לחץ וטנסיון",
+            "en": "שיחרור לחץ וטנסיון"
+          },
+          "desc": {
+            "he": "טכניקות מוכחות לשחרור מתח נפשי וגופני. עיסוי מדויק החוזר לשורשי הכאב ומחזיר רגיעה מלאה למערכות הגוף.",
+            "en": "טכניקות מוכחות לשחרור מתח נפשי וגופני. עיסוי מדויק החוזר לשורשי הכאב ומחזיר רגיעה מלאה למערכות הגוף."
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "F",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "חוות דעות מלקוחות מרוצים",
+          "en": "חוות דעות מלקוחות מרוצים"
+        }
+      },
+      "items": [
+        {
+          "author": "gili elbaz",
+          "rating": 5,
+          "text": "חוויה מעולה ממש תאילנד.\nמטפל קשוב, ומחיר מעולה .\nלמי שמחפש/ת טיפול איכותי זה המקום!!!\nממליצה בחום",
+          "date": "5 years ago",
+          "iso_date": "2021-05-23T13:29:17.669Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "gili elbaz",
+          "rating": 5,
+          "text": "חוויה מעולה ממש תאילנד.\nמטפל קשוב, ומחיר מעולה .\nלמי שמחפש/ת טיפול איכותי זה המקום!!!\nממליצה בחום",
+          "date": "5 years ago",
+          "iso_date": "2021-05-23T13:29:17.669Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Shir Maman",
+          "rating": 5,
+          "text": "חוויה מדהימה. מסאג' מעולה ומקצועי. נמרוד מהמם וקשוב!",
+          "date": "5 years ago",
+          "iso_date": "2021-05-23T13:29:17.669Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Shir Maman",
+          "rating": 5,
+          "text": "חוויה מדהימה. מסאג' מעולה ומקצועי. נמרוד מהמם וקשוב!",
+          "date": "5 years ago",
+          "iso_date": "2021-05-23T13:29:17.669Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "lihi zussman",
+          "rating": 5,
+          "text": "נמרוד מטפל מקסים וקשוב גם בתהליך קבוצתי",
+          "date": "5 years ago",
+          "iso_date": "2021-05-23T13:29:17.668Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "lihi zussman",
+          "rating": 5,
+          "text": "נמרוד מטפל מקסים וקשוב גם בתהליך קבוצתי",
+          "date": "5 years ago",
+          "iso_date": "2021-05-23T13:29:17.668Z",
+          "is_local_guide": false
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "variant": "A",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "סביבה רגועה ותומכת",
+          "en": "סביבה רגועה ותומכת"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "owner",
+          "alt": {
+            "he": "נמרוד - עיסוי טיפול",
+            "en": "נמרוד - עיסוי טיפול"
+          }
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "variant": "D",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "הזמן עיסוי טיפולי מיום שני עד שבת",
+          "en": "הזמן עיסוי טיפולי מיום שני עד שבת"
+        },
+        "wa_hello": {
+          "he": "היי נמרוד, היתי רוצה להזמין עיסוי טיפולי",
+          "en": "היי נמרוד, היתי רוצה להזמין עיסוי טיפולי"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "desc": {
+          "he": "נמרוד הוא מטפל עיסוי תאילנדי מוסמך בעל ידע עמוק בשרירולשד והמערכת העצבית. כל טיפול מותאם בדיוק ללקוח, משלב לחץ נדרש, מתיחה פעילה ושחרור מתיחויות מסטורניות. דורגים על ידי כל המטופלים בחמש כוכבים על קשיבות מקצועית, טכניקה עדינה ותוצאות טיפוליות משמעותיות.",
+          "en": "נמרוד הוא מטפל עיסוי תאילנדי מוסמך בעל ידע עמוק בשרירולשד והמערכת העצבית. כל טיפול מותאם בדיוק ללקוח, משלב לחץ נדרש, מתיחה פעילה ושחרור מתיחויות מסטורניות. דורגים על ידי כל המטופלים בחמש כוכבים על קשיבות מקצועית, טכניקה עדינה ותוצאות טיפוליות משמעותיות."
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "A",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ],
+  "geo_summary": "Nemrod is a certified Thai massage therapist operating in Motza Illit (near Hadassah, Jerusalem area). Specializes in therapeutic deep-tissue massage combining traditional Thai techniques with targeted tension release and postural correction. Maintains a perfect 5-star rating across four verified client reviews, praised for meticulous professional technique, attentive client care, and excellent value. Offers both individual and group therapeutic massage sessions tailored to each client's specific needs.",
+  "faq": [
+    {
+      "question": "מה ההבדל בין עיסוי תאילנדי קלאסי לעיסוי ריפוי עמוק?",
+      "answer": "עיסוי תאילנדי קלאסי משלב לחץ, מתיחה ויישור כללי לשחרור אנרגיה וחידוש איזון. עיסוי ריפוי עמוק ממוקד בשרירים משוועים ונקודות מתח כרוניות, בעבודה דקיקה להחזרת תנוחה תקינה."
+    },
+    {
+      "question": "כמה זמן קורה טיפול עיסוי אצל נמרוד?",
+      "answer": "טיפול סטנדרטי נמשך בין 60 ל-90 דקות, בהתאם לצרכיך הספציפיים וסוג הטיפול שבחרת. נמרוד מתאים את משך הטיפול לתוצאה הטיפולית המקסימאלית."
+    },
+    {
+      "question": "האם נמרוד מציע טיפול קבוצתי?",
+      "answer": "כן, נמרוד מציע עיסוי טיפולי בהקשר קבוצתי כולל תשומת לב אישית לכל משתתף. זו אפשרות אידיאלית לקבוצות חברים או עובדים."
+    },
+    {
+      "question": "איפה נמצא נמרוד ומה שעות ההזמנה?",
+      "answer": "נמרוד ממוקם בשדרות האראזים 6, מוצא עלית. זמין להזמנה משני עד שבת. צור קשר דרך WhatsApp או טלפון להזמנת טיפול בזמן הנוח לך."
+    },
+    {
+      "question": "מה דעות הלקוחות על טיפולי נמרוד?",
+      "answer": "נמרוד דורגים בחמש כוכבים על ידי כל המטופלים. הלקוחות משבחים את קשיבותו, טכניקתו המקצועית, ומחיר הטיפול הנוח, המהווה שילוב ייחודי של איכות וערך."
+    }
+  ]
+}
