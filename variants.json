@@ -1,11 +1,11 @@
 {
-  "hero": "K",
-  "services": "D",
-  "about": "B",
+  "hero": "B",
+  "services": "K",
+  "about": "A",
   "reviews": "F",
-  "nav": "D",
-  "contact": "D",
-  "gallery": "A",
+  "nav": "E",
+  "contact": "K",
+  "gallery": "E",
   "footer": "C",
-  "menu": "A"
+  "menu": "C"
 }
