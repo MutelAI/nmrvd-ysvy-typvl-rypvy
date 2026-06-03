@@ -29,7 +29,6 @@
     "source_url": "https://maps.app.goo.gl/j3fA15bKr4B5JnKh7",
     "cache_key": "j3fA15bKr4B5JnKh7"
   },
-  "editToken": "c5909f83694f1db7aa22e65a96c95664",
   "hours": [
     {
       "day_key": "sunday",
@@ -240,7 +239,13 @@
     {
       "id": "location",
       "variant": "",
-      "visible": true
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "איפה אנחנו??",
+          "en": "Where to Find Us"
+        }
+      }
     },
     {
       "id": "gallery",
