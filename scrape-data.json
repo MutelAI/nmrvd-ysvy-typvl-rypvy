@@ -1,28 +1,28 @@
 {
   "name": "נמרוד- עיסוי טיפול ריפוי",
-  "full_address": "הארזים 6, מוצא עילית",
-  "phone": "0505702591",
+  "full_address": "הארזים 6, מוצא עילית, ישראל",
+  "phone": "+972505702591",
   "website": null,
   "rating": 5,
   "reviews_count": 4,
-  "reviews_fetched": 12,
-  "reviews_last_year": 2,
+  "reviews_fetched": 4,
+  "reviews_last_year": 1,
   "category": "מטפל בעיסוי תאילנדי",
   "open_state": "פתוח עכשיו",
-  "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbgzhSzbhJTbXdcYbPFQ0KPqAi7NfEk5G3xVgBowjE9p6HoSYjYjrlLPCVXPSnsaX5DexfM3zYGfq9vnoLDpzSZU6nknOf4TsKdp6-ycusGK8aRmffWYhe8ukzaGHj6rxpSNmn=w408-h552-k-no",
+  "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUWSyfPZFRp8YalUjISeFBrPgrMXYJ75VAXHysT8lDWkhGCTBjuF6tQ8Yu_zWJG01cs2q_bJR4kMuEPqCJ1h6t3NkOovABcXhxFKdjDA0_Chso6FW7UAVCQwhliVh4o1-d_ngq=w408-h552-k-no",
   "coordinates": {
     "latitude": 31.7921688,
-    "longitude": 35.1576535
+    "longitude": 35.1554648
   },
-  "plus_code": "Q5R4+V5 מוצא עילית",
+  "plus_code": "Q5R4+V5 מוצא עילית, ישראל",
   "working_hours": {
+    "יום רביעי": "9:00–20:00",
+    "יום חמישי": "9:00–20:00",
     "יום שישי": "9:00–13:00",
     "יום שבת": "סגור",
     "יום ראשון": "9:00–20:00",
     "יום שני": "9:00–20:00",
-    "יום שלישי": "9:00–20:00",
-    "יום רביעי": "9:00–20:00",
-    "יום חמישי": "9:00–20:00"
+    "יום שלישי": "9:00–20:00"
   },
   "price_level": null,
   "email": null,
@@ -34,34 +34,8 @@
       "is_local_guide": false,
       "rating": 5,
       "text": "מומלץ בחום",
-      "date": "לפני 3 שבועות",
-      "iso_date_estimated": "2026-05-08T07:32:30.674Z",
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "omri simcovich",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 5,
-      "text": "מומלץ בחום",
-      "date": "לפני 3 שבועות",
-      "iso_date_estimated": "2026-05-08T07:32:30.674Z",
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "gili elbaz",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 5,
-      "text": "חוויה מעולה ממש תאילנד.\nמטפל קשוב, ומחיר מעולה .\nלמי שמחפש/ת טיפול איכותי זה המקום!!!\nממליצה בחום",
-      "date": "לפני 5 שנים",
-      "iso_date_estimated": "2021-05-30T07:32:30.674Z",
+      "date": "לפני חודש",
+      "iso_date_estimated": "2026-05-04T14:30:05.539Z",
       "likes": 0,
       "photos": [],
       "owner_reply": null
@@ -74,20 +48,7 @@
       "rating": 5,
       "text": "חוויה מדהימה. מסאג' מעולה ומקצועי. נמרוד מהמם וקשוב!",
       "date": "לפני 5 שנים",
-      "iso_date_estimated": "2021-05-30T07:32:30.674Z",
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "Shir Maman",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 5,
-      "text": "חוויה מדהימה. מסאג' מעולה ומקצועי. נמרוד מהמם וקשוב!",
-      "date": "לפני 5 שנים",
-      "iso_date_estimated": "2021-05-30T07:32:30.674Z",
+      "iso_date_estimated": "2021-06-04T14:30:05.539Z",
       "likes": 0,
       "photos": [],
       "owner_reply": null
@@ -100,20 +61,7 @@
       "rating": 5,
       "text": "נמרוד מטפל מקסים וקשוב גם בתהליך קבוצתי",
       "date": "לפני 5 שנים",
-      "iso_date_estimated": "2021-05-30T07:32:30.674Z",
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "lihi zussman",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 5,
-      "text": "נמרוד מטפל מקסים וקשוב גם בתהליך קבוצתי",
-      "date": "לפני 5 שנים",
-      "iso_date_estimated": "2021-05-30T07:32:30.674Z",
+      "iso_date_estimated": "2021-06-04T14:30:05.539Z",
       "likes": 0,
       "photos": [],
       "owner_reply": null
@@ -126,59 +74,7 @@
       "rating": 5,
       "text": "חוויה מעולה ממש תאילנד.\nמטפל קשוב, ומחיר מעולה .\nלמי שמחפש/ת טיפול איכותי זה המקום!!!\nממליצה בחום",
       "date": "לפני 5 שנים",
-      "iso_date_estimated": "2021-05-30T07:32:30.671Z",
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "gili elbaz",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 0,
-      "text": null,
-      "date": null,
-      "iso_date_estimated": null,
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "Shir Maman",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 0,
-      "text": null,
-      "date": null,
-      "iso_date_estimated": null,
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "lihi zussman",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 0,
-      "text": null,
-      "date": null,
-      "iso_date_estimated": null,
-      "likes": 0,
-      "photos": [],
-      "owner_reply": null
-    },
-    {
-      "author": "omri simcovich",
-      "author_url": null,
-      "author_reviews_count": 0,
-      "is_local_guide": false,
-      "rating": 0,
-      "text": null,
-      "date": null,
-      "iso_date_estimated": null,
+      "iso_date_estimated": "2021-06-04T14:30:05.538Z",
       "likes": 0,
       "photos": [],
       "owner_reply": null
@@ -186,19 +82,45 @@
   ],
   "photos": {
     "owner": [],
-    "users": []
+    "users": [
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUWSyfPZFRp8YalUjISeFBrPgrMXYJ75VAXHysT8lDWkhGCTBjuF6tQ8Yu_zWJG01cs2q_bJR4kMuEPqCJ1h6t3NkOovABcXhxFKdjDA0_Chso6FW7UAVCQwhliVh4o1-d_ngq=w1600-h1600-k-no",
+        "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHUWSyfPZFRp8YalUjISeFBrPgrMXYJ75VAXHysT8lDWkhGCTBjuF6tQ8Yu_zWJG01cs2q_bJR4kMuEPqCJ1h6t3NkOovABcXhxFKdjDA0_Chso6FW7UAVCQwhliVh4o1-d_ngq=w32-h32-p-k-no",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbLB53JrFwvnjlO2z8REI8hoVcL8pldFW7VZkBpnsbfjCZVhYM2Jypu951ZwBAezVIEo0E-9QYAGuPKnAy_cK5_E2Uak7WNB-v1vo2ngUBRdZuksuVbe3Fc4tCaxkNJFS4T-9wdg=w1600-h1600-k-no",
+        "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbLB53JrFwvnjlO2z8REI8hoVcL8pldFW7VZkBpnsbfjCZVhYM2Jypu951ZwBAezVIEo0E-9QYAGuPKnAy_cK5_E2Uak7WNB-v1vo2ngUBRdZuksuVbe3Fc4tCaxkNJFS4T-9wdg=w298-h298-k-no",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqfwvFks7UvrvHNJBvS77TNOShYHPmzEIhyD30uXANMWmtbFpLnLHkvo4JjqNGJfH_IqQ92mG9lnT-MH9avfGrOxaUDajxkEvJFnoLYNApcoKdnsCkrwkEC1Y7fCAtTlvtOhZH=w1600-h1600-k-no",
+        "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqfwvFks7UvrvHNJBvS77TNOShYHPmzEIhyD30uXANMWmtbFpLnLHkvo4JjqNGJfH_IqQ92mG9lnT-MH9avfGrOxaUDajxkEvJFnoLYNApcoKdnsCkrwkEC1Y7fCAtTlvtOhZH=w156-h114-p-k-no",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO98E5Dq_yM6I1G2hbreRjjAbhGAcF68ajyOs220vOzmeeUxRGD84v-LEyw28mrgaxe30N58CWXG-KEzUwKX7fh2Os5rBwVs-DfGn4roNX3e-t9vAU1vJ5UmRL9zeNRmig80fz=w1600-h1600-k-no",
+        "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHO98E5Dq_yM6I1G2hbreRjjAbhGAcF68ajyOs220vOzmeeUxRGD84v-LEyw28mrgaxe30N58CWXG-KEzUwKX7fh2Os5rBwVs-DfGn4roNX3e-t9vAU1vJ5UmRL9zeNRmig80fz=w156-h114-p-k-no",
+        "source": "unknown"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgbQ6ZYwVLJZ_ZPbwoUnxZ9pFmy-ualZ1ppKwP-xjGJAWKnpyXdvV2wVZxdenogbn16LrJ5C4_X4sWaRgvVLaZi_ZK-oMWyBwNSa-qfzD6p6wqe8UdPj3YGSf3G5z6eIUNim2eUA=w1600-h1600-k-no",
+        "thumb": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgbQ6ZYwVLJZ_ZPbwoUnxZ9pFmy-ualZ1ppKwP-xjGJAWKnpyXdvV2wVZxdenogbn16LrJ5C4_X4sWaRgvVLaZi_ZK-oMWyBwNSa-qfzD6p6wqe8UdPj3YGSf3G5z6eIUNim2eUA=w140-h186-k-no",
+        "source": "unknown"
+      }
+    ]
   },
   "videos": [],
   "about": {},
   "services": [],
   "timing": {
-    "resolve_url": "1.2s",
-    "page_load": "38.0s",
-    "place_details": "38.7s",
-    "about": "4.0s",
-    "services": "4.6s",
-    "reviews": "18.2s",
-    "photos": "72.9s",
-    "total": "177.7s"
+    "resolve_url": "0.6s",
+    "page_load": "49.3s",
+    "place_details": "3.6s",
+    "about": "3.9s",
+    "services": "21.3s",
+    "reviews": "18.9s",
+    "photos": "206.2s",
+    "total": "303.7s"
   }
 }
