@@ -29,64 +29,7 @@
     "source_url": "https://maps.app.goo.gl/j3fA15bKr4B5JnKh7",
     "cache_key": "j3fA15bKr4B5JnKh7"
   },
-  "hours": [
-    {
-      "day_key": "sunday",
-      "day_he": "ראשון",
-      "day_en": "Sunday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    },
-    {
-      "day_key": "monday",
-      "day_he": "שני",
-      "day_en": "Monday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    },
-    {
-      "day_key": "tuesday",
-      "day_he": "שלישי",
-      "day_en": "Tuesday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    },
-    {
-      "day_key": "wednesday",
-      "day_he": "רביעי",
-      "day_en": "Wednesday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    },
-    {
-      "day_key": "thursday",
-      "day_he": "חמישי",
-      "day_en": "Thursday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    },
-    {
-      "day_key": "friday",
-      "day_he": "שישי",
-      "day_en": "Friday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    },
-    {
-      "day_key": "saturday",
-      "day_he": "שבת",
-      "day_en": "Saturday",
-      "hours_he": "סגור",
-      "hours_en": "Closed",
-      "is_open": false
-    }
-  ],
+  "hours": [],
   "design": {},
   "sections": [
     {
@@ -376,5 +319,8 @@
       "question": "מה מבדיל את נמרוד?",
       "answer": "נמרוד מביא לכל טיפול שילוב של מומחיות טכנית, קשיבות אמיתית לצורך הלקוח ודרישה למצוינות, כפי שמעידים הדירוגים המושלמים של המטופלים שלו."
     }
+  ],
+  "hidden_sections": [
+    "hours"
   ]
 }
